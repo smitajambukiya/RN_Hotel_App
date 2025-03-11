@@ -52,6 +52,11 @@ $ react-native run-ios
 > Please keep your Xcode updated in order to avoid any Xcode/Runtime version problem
 
 ## Preview
+
+
+| <img src="https://github.com/user-attachments/assets/bbd943d8-ccb6-4d2f-be71-f323644e0d29" width="300"> | <img src="https://github.com/user-attachments/assets/e422567a-4ad2-4afe-85d5-970833583923" width="300">  | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-3.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-4.png" width="300">  |
+| ------------- | ------------- |------------- | ------------- |
+| <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-5.png" width="300"> |
 ![screenshot-1](https://github.com/user-attachments/assets/bbd943d8-ccb6-4d2f-be71-f323644e0d29)
 ![screenshot-3](https://github.com/user-attachments/assets/e422567a-4ad2-4afe-85d5-970833583923)
 ![screenshot-4](https://github.com/user-attachments/assets/32b5075b-f42f-4d49-a0fe-aaecf1862a59)
