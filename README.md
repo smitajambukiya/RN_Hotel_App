@@ -1,6 +1,6 @@
 # Hotel APP 
 
-:tent: Hotels App: A simple react-native App 
+:tent: Hotels App: A simple React Native App 
 
 
 ### Quick start
@@ -45,9 +45,15 @@ $ react-native run-ios
  
  * Open IOS project on `Xcode`, that is located in `${PROJECT_DIR}/ios/otel.xcodeproj`
  * Connect and choose your iPhone device on topbar
-    
+    ![xcode](https://github.com/user-attachments/assets/dc2fdbcd-5aaa-4fcf-abf8-e704f9c68fa6)
+
  * Use the `Play` :arrow_forward: button (few pixels on left) to run the App
 
 > Please keep your Xcode updated in order to avoid any Xcode/Runtime version problem
 
 ## Preview
+![screenshot-1](https://github.com/user-attachments/assets/bbd943d8-ccb6-4d2f-be71-f323644e0d29)
+![screenshot-3](https://github.com/user-attachments/assets/e422567a-4ad2-4afe-85d5-970833583923)
+![screenshot-4](https://github.com/user-attachments/assets/32b5075b-f42f-4d49-a0fe-aaecf1862a59)
+![screenshot-9](https://github.com/user-attachments/assets/8dd920ec-64c7-47f5-a9d8-a4ba05899e1e)
+![screenshot-12](https://github.com/user-attachments/assets/f0df00ef-9c3c-4075-8515-a9580876b8ed)
